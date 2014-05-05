@@ -5,11 +5,8 @@ An old-school 1970 model C++ terminal messenger client that works on a single ma
 
 ##Screenshots
 
-**Home**
-![Home](screenshots/1.png)<br/>
-**Weather**
-![Weather](screenshots/2.png)<br/>
-**Contact Manager**
+![Home](screenshots/1.png)
+![Weather](screenshots/2.png)
 ![Contact Manager](screenshots/3.png)
 
 ***
