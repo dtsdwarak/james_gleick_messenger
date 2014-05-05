@@ -9,6 +9,10 @@ An old-school 1970 model C++ terminal messenger client that works on a single ma
 ![Weather](screenshots/2.png)
 ![Contact Manager](screenshots/3.png)
 
+##Download
+
+A win32 executable is also available for [download](JG MSG 1.01.exe).
+
 ***
 Built for Fun with lots of ~~:heart:~~
 
